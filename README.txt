@@ -3,7 +3,6 @@ hello git
 hello wjun
 == master bug修复 ==
 hello master
-<<<<<<< HEAD
 == 造成冲突部分 ==
 hello meger
 hello hot-fix
