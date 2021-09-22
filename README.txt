@@ -3,3 +3,5 @@ hello git
 hello wjun
 == master bug修复 ==
 hello master
+== 造成冲突部分 ==
+hello meger
