@@ -3,3 +3,5 @@ hello git
 hello wjun
 == master bug修复 ==
 hello master
+== hot fix 修复 ==
+hello hot-fix
